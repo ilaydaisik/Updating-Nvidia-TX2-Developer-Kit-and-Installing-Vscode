@@ -51,7 +51,7 @@ You can start SDK Manager using two methods:
 
 
 
-```
+
 # Installing VSCodium on TX2 Board
 
 This guide details how to install VSCodium (the open-source version of Visual Studio Code) on a TX2 board with ARM64 architecture.
@@ -138,7 +138,7 @@ sudo rm /etc/apt/sources.list.d/yarn.list.save
 - `sudo mv /etc/apt/sources.list.d/nodesource.list.save /etc/apt/sources.list.d/nodesource.list`: Renames the file extension to `.list`.
 - `sudo rm /etc/apt/sources.list.d/yarn.list.save`: Removes the file with an invalid extension.
 
-```
+
 
 
 
@@ -198,7 +198,7 @@ SDK Manager'ı başlatmak için iki yöntem kullanabilirsiniz:
 
 
 
-```
+
 
 # TX2 Kartı Üzerinde VSCodium Kurulumu
 
@@ -288,5 +288,4 @@ sudo rm /etc/apt/sources.list.d/yarn.list.save
 - `sudo rm /etc/apt/sources.list.d/yarn.list.save`: Geçersiz uzantılı dosyayı siler.
 
 
-```
 
